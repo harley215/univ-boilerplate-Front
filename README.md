@@ -143,4 +143,5 @@ As you project grows you'll probably want to re-seed and refresh your database f
 You'll be able to view your fullstack application by running `heroku open`. Bask in the glory of your live site, and happy coding!
 
 
-Scrum Master WEEK 1 - AARON
+Scrum Master WEEK 1 - AARON 
+alksdfhadjs   
